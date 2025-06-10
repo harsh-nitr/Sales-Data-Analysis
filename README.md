@@ -3,7 +3,6 @@
 
 A fully interactive Power BI dashboard designed to deliver deep insights into product performance, sales trends, and customer behavior across various metrics like Net Sales, Profit, Discount, Quantity Sold, and more.
 
-![Dashboard Screenshot](path-to-screenshot.png)
 
 ---
 
